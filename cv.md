@@ -20,6 +20,7 @@ Hi! I am Vasilina, 21 y.o. from Minsk. I had experince with UI/UX Design, but I 
     function multiply(a, b){
     return a * b;
     }  
+    
 ## Work Experience
 I did an internship as an HTML coder at the Belarusian IT company Lomray Software on January 2022.
 I have some small projects, you can see them on my [gitHub](https://github.com/kolosvasilina00)
